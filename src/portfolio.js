@@ -10,7 +10,7 @@ const about = {
   role: 'Cientista de Dados',
   description:
     'Tenho experiência em desenvolvimento de modelos preditivos aplicados à concessão de crédito, previsão de commodities, análise de churn e Marketing Mix Modeling (MMM). Além disso, vale destacar que mantenho conhecimentos intermediários em inglês e espanhol.',
-  resume: '/public/Bruno's Resume.pdf',
+  resume: '/public/Bruno's_Resume.pdf',
   social: {
     linkedin: 'https://linkedin.com/o-brn/',
     github: 'https://github.com/BrnCode/',
