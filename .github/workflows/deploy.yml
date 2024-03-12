@@ -1,5 +1,10 @@
-name: CI
-on: [push]
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
 permissions:
   contents: write
 
@@ -19,10 +24,12 @@ jobs:
         uses: borales/actions-yarn@v4
         with:
           cmd: install # will run `yarn install` command
+
       - name: Build production bundle
         uses: borales/actions-yarn@v4
         with:
           cmd: build # will run `yarn build` command
+
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
