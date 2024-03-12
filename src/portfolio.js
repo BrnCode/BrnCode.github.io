@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://brncode.github.io/',
-  title: 'JS.',
+  title: '',
 }
 
 const about = {
