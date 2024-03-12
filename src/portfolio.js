@@ -9,7 +9,7 @@ const about = {
   name: 'Bruno de Oliveira',
   role: 'Cientista de Dados',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'Cientista de dados com experiência em desenvolvimento de modelos preditivos aplicados à concessão de crédito, previsão de commodities, análise de churn e Marketing Mix Modeling (MMM). Além disso, vale destacar que mantenho conhecimentos intermediários em inglês e espanhol.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com/o-brn/',
