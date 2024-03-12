@@ -20,7 +20,6 @@ const App = () => {
         <Projects />
         <Skills />
         <Contact />
-        <p>hello</p>
       </main>
 
       <ScrollToTop />
