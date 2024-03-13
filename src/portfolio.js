@@ -12,7 +12,7 @@ const about = {
     'Tenho experiência em desenvolvimento de modelos preditivos aplicados à concessão de crédito, previsão de commodities, análise de churn e Marketing Mix Modeling (MMM). Além disso, vale destacar que mantenho conhecimentos intermediários em inglês e espanhol.',
   resume: '/CV_Bruno.pdf',
   social: {
-    linkedin: 'https://linkedin.com/o-brn/',
+    linkedin: 'https://www.linkedin.com/in/o-brn/',
     github: 'https://github.com/BrnCode/',
   },
 }
