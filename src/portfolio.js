@@ -9,7 +9,7 @@ const about = {
   name: 'Bruno de Oliveira',
   role: 'Cientista de Dados',
   description:
-    'Tenho experiência em desenvolvimento de modelos preditivos aplicados à concessão de crédito, previsão de commodities, análise de churn e Marketing Mix Modeling (MMM). Além disso, vale destacar que mantenho conhecimentos intermediários em inglês e espanhol.',
+    'Tenho experiência no desenvolvimento de modelos preditivos aplicados à concessão de crédito, séries temporais, análise de churn e Marketing Mix Modeling (MMM). Além disso, tenho conhecimentos intermediários em inglês e espanhol.',
   resume: '/CV_Bruno.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/o-brn/',
@@ -21,12 +21,11 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Previsão de Aluguéis de Bicicletas com Séries Temporais',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'O objetivo deste projeto é desenvolver um modelo preditivo capaz de estimar o número de bicicletas que serão alugadas',
+    stack: ['Python', 'Prophet', 'Matplotlib'],
+    sourceCode: 'https://github.com/BrnCode/Portfolio/tree/main/Previsao_Alugueis_Bicicletas_Series_Temporais',
   },
   {
     name: 'Project 2',
