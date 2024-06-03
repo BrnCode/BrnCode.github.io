@@ -25,7 +25,7 @@ const projects = [
     description:
       'O objetivo deste projeto é desenvolver um modelo preditivo capaz de estimar o número de bicicletas que serão alugadas',
     stack: ['Python', 'Prophet', 'Matplotlib'],
-    sourceCode: 'https://github.com/BrnCode/Portfolio/tree/main/Previsao_Alugueis_Bicicletas_Series_Temporais',
+    sourceCode: 'https://github.com/BrnCode/Previsao_Alugueis_Bicicletas_Series_Temporais',
   },
   {
     name: 'Project 2',
