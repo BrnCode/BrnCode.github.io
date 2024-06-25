@@ -21,9 +21,9 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Previsão de Aluguéis de Bicicletas com Séries Temporais',
+    name: 'Previsão de Aluguéis de Bicicletas',
     description:
-      'O objetivo deste projeto é desenvolver um modelo preditivo capaz de estimar o número de bicicletas que serão alugadas',
+      'O objetivo deste projeto foi desenvolver um modelo preditivo usando o Prophet, capaz de estimar o número de bicicletas que serão alugadas',
     stack: ['Python', 'Prophet', 'Matplotlib'],
     sourceCode: 'https://github.com/BrnCode/Previsao_Alugueis_Bicicletas_Series_Temporais',
   },
